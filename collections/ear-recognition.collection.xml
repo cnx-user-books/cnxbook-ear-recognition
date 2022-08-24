@@ -1,54 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Zeyangyi Wang">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11604</md:content-id>
-  <md:title>Ear Recognition</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>0a4f54d2-b04d-4200-8ff3-ef6fe44029b4</md:uuid>
-<md:slug>ear-recognition</md:slug>
-</metadata>
-
+    <md:content-id>col11604</md:content-id>
+    <md:title>Ear Recognition</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>0a4f54d2-b04d-4200-8ff3-ef6fe44029b4</md:uuid>
+    <md:slug>ear-recognition</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m48402"/>
-        
-      
-    
-    
-      <col:module document="m48408"/>
-        
-      
-    
-    
-      <col:module document="m48456"/>
-        
-      
-    
-    
-      <col:module document="m48465"/>
-        
-      
-    
-    
-      <col:module document="m48458"/>
-        
-      
-    
-    
-      <col:module document="m48477"/>
-        
-      
-    
+    <col:module document="m48402"/>
+    <col:module document="m48408"/>
+    <col:module document="m48456"/>
+    <col:module document="m48465"/>
+    <col:module document="m48458"/>
+    <col:module document="m48477"/>
   </col:content>
 </col:collection>
